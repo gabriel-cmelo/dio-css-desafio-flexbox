@@ -119,7 +119,7 @@ video iframe {
     background-color: #f0f0f0;
     margin-bottom: 10px;
     width: 100%;
-    max-width: 200px; /* Set a maximum width for the thumbnails */
+    max-width: 200px;
     max-height: 150px;
 }
 
